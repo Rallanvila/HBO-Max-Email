@@ -1,6 +1,4 @@
-# HBOMax
-
-[Link to HTML Newsletter Email](https://rallanvila.com/project_pages/hbomax.html)
+# HBOMax HTML Newsletter Email
 
 ## Project Context
 
@@ -26,6 +24,8 @@ Project is created with:
 - Javascript
 - Gulp
 - Json
+
+[Link to HTML Newsletter Email](https://rallanvila.com/project_pages/hbomax.html)
 
 ## Build Commands
 
