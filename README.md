@@ -6,7 +6,7 @@ Context: This is a fully customizable HTML Newsletter Email / Template written f
 
 The styling has been written with Sass. The Sass is then compiled and the images are minified for optimal performance into a master HTML file. The master index.html has everything compiled to inline HTML in order to work in all email clients. 😎
 
-## What is learned
+## What was learned
 
 - Pixel Perfect Design Replication
 - How to set variables and @mixins for brand consistent code
@@ -24,6 +24,8 @@ Project is created with:
 - Javascript
 - Gulp
 - Json
+
+## See the email below!
 
 [Link to HTML Newsletter Email](https://rallanvila.com/project_pages/hbomax.html)
 
